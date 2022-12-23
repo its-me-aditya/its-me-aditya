@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adityasingh5125313@gmail.com**
 
-- ⚡ Fun fact **I love to do maths questions and also a singer .**
+- ⚡ Fun fact **I love to do maths questions .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
