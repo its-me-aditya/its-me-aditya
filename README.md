@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Code**
 
-- 📫 How to reach me **adityasingh5125313@gmail.com**
+- 📫 How to reach me **adityasingh512531@gmail.com**
 
 - ⚡ Fun fact **I love to do maths questions .**
 
