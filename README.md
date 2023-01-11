@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya singh</h1>
+<h1 align="center">Hi 👋, I'm ADITYA SINGH</h1>
 <h3 align="center">A passionate student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-me-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="its-me-aditya" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Basics of C++..](https://www.codingninjas.com/)
 
-- 🌱 I’m currently learning **java , c and c++ .**
+- 🌱 I’m currently learning   c and c++ .**
 
 - 🤝 I’m looking for help with **Code**
 
